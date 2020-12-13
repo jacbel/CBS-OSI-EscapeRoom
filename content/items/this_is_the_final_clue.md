@@ -18,7 +18,7 @@ _When you're sure about your answers you can continue_
 
 _The last step is to go to the source of this website on GitHub, where people commonly share scripts publicly_
 
-_Here's the link: [github.com/norment/ecrm20_escaperoom](https://github.com/norment/ecrm20_escaperoom)_
+_Here's the link: [github.com/jacbel/CBS-OSI-EscapeRoom](https://github.com/jacbel/CBS-OSI-EscapeRoom)_
 
 _Somewhere in this repository is a file with the link to the exit._
 _The name of this file contains the three colors you found above. Go find this file in the repository and follow the link!_

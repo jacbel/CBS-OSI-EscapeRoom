@@ -14,7 +14,7 @@ _I'll be your host in this game. In the year 2060 all research will be published
 
 ![](/images/villain-standing.png)
 
-_FREE!? What about me? What am I supposed to live off? I am the expert on how knowledge is supposed to be distributed. I can distribute the research I’ve locked down to all of you… for a small price. Making everything open was a huge mistake. Nothing is controlled anymore. Anyone can read about anything with no filter. Nobody is making any money. Look at this, hardly anything left! (\*points to large piggy bank filled to the brim with large coins\*) I will shut EVERYTHING down. Not just the research in Norway. EVERYTHING!! Then I will make you pay. MUHAHAHA_
+_FREE!? What about me? What am I supposed to live off? I am the expert on how knowledge is supposed to be distributed. I can distribute the research I’ve locked down to all of you… for a small price. Making everything open was a huge mistake. Nothing is controlled anymore. Anyone can read about anything with no filter. Nobody is making any money. Look at this, hardly anything left! (\*points to large piggy bank filled to the brim with large coins\*) I will shut EVERYTHING down. Not just the research in Germany. EVERYTHING!! Then I will make you pay. MUHAHAHA_
 
 ### Robin:
 

@@ -3,7 +3,7 @@ relativeURLs            = true
 languageCode            = "en-us"
 defaultContentLanguage  = "en"
 isMultilingual          = false
-title                   = "Early Career Researchers Meeting 2020 - Open Science Escape Room"
+title                   = "MPI CBS Christmas Party 2020 - Open Science Escape Room"
 theme                   = "sam"
 pygmentsStyle           = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
@@ -19,26 +19,26 @@ googleAnalytics         = "G-0CS8JKDMHZ"
     favicon             = "images/norment.png"
     homepage            = "home"                           # What to call the home page link
     footerText          = ""
-    companylogo         = "images/norment.png"
-    logoheight          = "40px"
-    companysite         = "https://www.med.uio.no/norment/english/"
+    companylogo         = "images/cbs-osi-logo-crop.jpg"
+    logoheight          = "100px"
+    companysite         = "https://www.cbs.mpg.de/en/cbs-open-science"
 
 # Metadata for Open Graph and Twitter
-    description         = "Interactive site for the Escape Room at the NORMENT Early-Career Researcher Meeting 2020"
-    images              = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    description         = "Interactive site for the Escape Room at the MPI CBS Christmas Party 2020"
+    images              = ["images/cbs-osi-logo-crop.jpg"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title               = "Open Science Escape Room"
     # rss               = ""
 
 [[params.videoBackground.sources]]
-    source  = "images/background_video.mp4"
+    source  = "images/Christmas_EscapeRoom.mp4"
     type    = "video/mp4"
     poster  = "images/background.jpg"
 [params.videoBackground]
     overlay = "rgba(0, 0, 0, 0.6)" # optional
 
-[[params.mainMenu]]
-    link = "pages/program"
-    text = "program"
+#[[params.mainMenu]]
+#    link = "pages/program"
+#    text = "program"
 #[[params.mainMenu]]
 #    link = "/items/closed"
 #    text = "THE ESCAPE ROOM IS CLOSED"
