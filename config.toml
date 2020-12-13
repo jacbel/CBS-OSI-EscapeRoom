@@ -20,7 +20,7 @@ googleAnalytics         = "G-0CS8JKDMHZ"
     homepage            = "home"                           # What to call the home page link
     footerText          = ""
     companylogo         = "images/cbs-osi-logo-crop.jpg"
-    logoheight          = "100px"
+    logoheight          = "66px"
     companysite         = "https://www.cbs.mpg.de/en/cbs-open-science"
 
 # Metadata for Open Graph and Twitter
@@ -43,14 +43,14 @@ googleAnalytics         = "G-0CS8JKDMHZ"
 #    link = "/items/closed"
 #    text = "THE ESCAPE ROOM IS CLOSED"
 [[params.mainMenu]]
+    link = "instructions"
+    text = "instructions"
+[[params.mainMenu]]
     link = "introduction"
     text = "start"
 [[params.mainMenu]]
     link = "tasks"
     text = "tasks"
-[[params.mainMenu]]
-    link = "instructions"
-    text = "instructions"
 [[params.mainMenu]]
     link = "about"
     text = "about"
